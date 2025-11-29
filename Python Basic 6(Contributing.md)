@@ -1,0 +1,16 @@
+# 🤝 Contributing to python-basics-agentic-ai
+
+We welcome contributions! Please follow these guidelines to ensure quality and consistency.
+
+## Style and Format Rules
+
+1.  **Code Style:** All Python code must be **PEP 8 compliant**.
+2.  **Notebooks (`.ipynb`):**
+    * Notebooks must be **Google Colab-compatible** (no reliance on local paths or complex environment setups).
+    * All cells must be executed and saved with their output before committing.
+    * Use the provided auto-validation tests for exercises.
+3.  **Markdown Files (`.md`):**
+    * Use clear headers (`##`, `###`) and concise bullet lists.
+    * Code blocks should be properly fenced and language-specified (e.g., \`\`\`python).
+    * Keep the friendly, technical-but-accessible tone.
+4.  **Flowcharts:** New or updated flowcharts should be placed in `/assets/images/` and should also be linked in the respective module's `README.md`.
