@@ -1,0 +1,5 @@
+Type,Name,Description,Example
+int,Integer,"Whole numbers (positive, negative, zero).","10, -500"
+float,Floating Point,Numbers with a decimal point.,"3.14, 0.01"
+str,String,Sequences of characters (text). Must be enclosed in quotes.,"""Hello"", 'Task Completed'"
+bool,Boolean,Logical value: True or False. (Note: Capitalized!),"True, False"
