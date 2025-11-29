@@ -1,0 +1,4 @@
+Rule,Description,Example (Good),Example (Bad)
+Start,Must start with a letter or underscore (_).,"user_name, _private","9user, $"
+Content,Can only contain alphanumeric characters and underscores.,temp_celsius,temp-celsius
+Case,Variables are case-sensitive.,Name is different from name.,
