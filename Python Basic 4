@@ -1,0 +1,9 @@
+# Try it now
+user_message = "Mera naam Zoya hai."  # My name is Zoya.
+is_agent_online = True
+
+print(user_message)
+print(type(user_message))
+
+print(is_agent_online)
+print(type(is_agent_online))
