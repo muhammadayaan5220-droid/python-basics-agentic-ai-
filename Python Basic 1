@@ -1,0 +1,69 @@
+# 🐍 python-basics-agentic-ai
+
+## Python Basics: Your Path to Agentic AI
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Repo Size](https://img.shields.io/github/repo-size/your-github-username/python-basics-agentic-ai)
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+
+
+Welcome to **Python Basics for Agentic AI**, a comprehensive, beginner-friendly GitHub repository designed to teach you the fundamental Python skills necessary to succeed in modern Agentic AI and Large Language Model (LLM) application development.
+
+We go from zero-to-hero on core concepts, focusing on the syntax and structures most relevant for data handling, control flow, and external tool interaction—all prerequisites for building intelligent agents.
+
+---
+
+## 🚀 Learning Path & Modules
+
+This repository is structured as a progressive bootcamp. Complete the modules in order:
+
+| Module | Title | Key Concepts for AI |
+| :--- | :--- | :--- |
+| **01** | Introduction to Python | Syntax foundation, Code Execution |
+| **02** | Google Colab Setup | Environment setup, Dependency management |
+| **03** | Data Types & Variables | Data representation (int, float, bool, str), State management |
+| **04** | Operators | Logic & Comparisons (essential for conditional actions in agents) |
+| **05** | Keywords | Reserved words, basic function definition (`def`) |
+| **06** | Strings & Casting | Text processing, Data serialization/deserialization |
+| **07** | Exercises & Quizzes | Practical application & reinforcement |
+
+---
+
+## ✅ Prerequisites
+
+* **Motivation:** A desire to learn programming and enter the world of AI/LLMs.
+* **Web Browser:** Access to Google Chrome, Firefox, or Safari for using Google Colab.
+* **Optional:** A basic understanding of what a "program" is.
+
+**No prior Python knowledge is required!**
+
+---
+
+## 🛠️ Repository Layout
+
+| Directory/File | Description |
+| :--- | :--- |
+| `/01_...` to `/06_...` | Core learning modules with Notebooks, Code, and Docs. |
+| `/07_exercises_...` | Progressive exercises and quizzes. |
+| `/assets/images/` | High-resolution flowcharts and cover images. |
+| `/solutions/` | Full solutions for all exercises. **(Caution: Spoilers!)** |
+| `cheatsheet.md` | Single-page reference for quick lookups. |
+| `CONTRIBUTING.md` | Style guide for community contributions. |
+
+---
+
+## 💻 Running the Code
+
+The primary method for running the code is **Google Colaboratory (Colab)**, which requires zero setup on your machine.
+
+1.  **Open the Notebook:** Click on any `notebook.ipynb` file in the repository.
+2.  **Run in Colab:** Click the "Open in Colab" badge at the top of the file preview.
+3.  **Execute Cells:** Click the play button next to each code cell or use `Shift + Enter`.
+
+Alternatively, you can clone the repository and run the Python files locally.
+
+```bash
+git clone [https://github.com/your-github-username/python-basics-agentic-ai.git](https://github.com/your-github-username/python-basics-agentic-ai.git)
+cd python-basics-agentic-ai/03_data_types_and_variables
+python examples.py
