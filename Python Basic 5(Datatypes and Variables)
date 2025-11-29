@@ -1,0 +1,9 @@
+Cell Type,Content
+Markdown,"# 🧠 Module 03: Data Types and Variables  (Full introduction text from the README, Learning Outcomes, Why it Matters)"
+Code,Try It Now: The user_message and is_agent_online example from the README.
+Markdown,## Exercise 1: Basic Variable Assignment (EASY)  Goal: Create a variable city_name (str) and population (int).
+Code,Exercise 1 Snippet: Code block for the user to complete.  Test Cell: Hidden test cell to validate city_name is a str and population is an int.
+Markdown,## Exercise 2: Mixed Arithmetic (MEDIUM)  Goal: Calculate the average time in minutes (float) given 3 task times in seconds (int).
+Code,Exercise 2 Snippet: Code block for the user to complete.  Test Cell: Hidden test cell to validate the result is a float and is numerically close to the expected value.
+Markdown,## Exercise 3: Agentic Logic (HARD)  Goal: Create two variables: temperature_ok (bool) and humidity_ok (bool). Use these to create a final variable environment_ready which is True only if BOTH are True.
+Code,Exercise 3 Snippet: Code block for the user to complete.  Test Cell: Hidden test cell to validate the logical expression and that environment_ready is a bool.
